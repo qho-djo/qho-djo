@@ -60,11 +60,14 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=qho-djo&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=qho-djo&count_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&icon_color=4CAF50)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qho-djo&hide=TeX&layout=compact)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=qho-djo0&color=800080)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qho-djo&hide=TeX&layout=compact&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF)
+
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=qho-djo0&color=800080&style=rounded)
+
 
 ### Languages and Tools
 
