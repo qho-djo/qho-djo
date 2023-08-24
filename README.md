@@ -11,7 +11,6 @@ I'm a Network Engineer, System Support Specialist, Computer Scientist and Softwa
 
 
 
-Like My Work?
 Here are a few things to know about me.
 <!--
 <a href="https://bmc.link/evansow2001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
