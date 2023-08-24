@@ -1,7 +1,14 @@
 ## Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
   <h4> Software Engineer at ALX <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
+<!--
 I'm a Network Engineer, System Support Specialist, Computer Scientist and Software Developer from Ghana, Accra. I graduated in Cisco Certified Networking Associate (CCNA) at Ghana-India Kofi Annan Centre of Excellence in ICT and Bachelor of Science in Computer Science at Ghana Communication Technology University, Accra Ridge and Tesano respectively. I like building new stuff and working  in  team. I am curious 😉.
+-->
+Experienced Information Technology professional with a dynamic background in the hospitality industry, complemented by my current role in the ever-evolving Telecommunication sector. My journey spans roles such as Network Engineer, System Support Specialist, Computer Scientist, and Software Developer. Hailing from Ghana, Accra, I hold a Cisco Certified Networking Associate (CCNA) certification from the Ghana-India Kofi Annan Centre of Excellence in ICT and a Bachelor of Science in Computer Science from Ghana Communication Technology University, with stints at both the Accra Ridge and Tesano campuses.
+
+Skilled in IT Support, Network Administration, Customer Service, and Microsoft Office, I bring a proven track record of proficiency. My expertise extends beyond the academic realm, having garnered hands-on experience in building robust systems and collaborating with diverse teams. A passion for innovation and a natural curiosity drive my dedication to new challenges.
+
+Whether it's optimizing technology for the hospitality industry or contributing to advancements in the telecommunications field, I'm committed to leveraging my strong IT foundation to make a positive impact.
 <br />
 
 [![Instagram Badge](https://img.shields.io/badge/-@qho__djo-001F3F?style=flat-square&logo=instagram&logoColor=white&link=[https://www.instagram.com/qho__djo/](https://www.instagram.com/qho__djo/))](https://www.instagram.com/qho__djo/)
