@@ -29,7 +29,6 @@ Here are a few things to know about me.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a Printf project on ALX.
 - 🌱 I’m currently learning Computer Science and Software Engineering.
 - 👯 I’m looking to collaborate on an innovative app.
 <!--
